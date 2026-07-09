@@ -16,3 +16,7 @@ wheels/
 
 # Pytest
 .pytest_cache
+
+# Ci/Cd
+jenkins_home
+nexus_data
